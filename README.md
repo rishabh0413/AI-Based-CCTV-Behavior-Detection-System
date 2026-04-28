@@ -1,4 +1,4 @@
-# AI-Based Smart CCTV Behavior Detection System
+# AI-Based CCTV Behavior Detection System
 
 This project is a real-time surveillance system that detects suspicious human behavior such as loitering using computer vision techniques.
 
