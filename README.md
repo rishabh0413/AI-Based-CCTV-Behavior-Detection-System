@@ -17,14 +17,14 @@ This project is a real-time surveillance system that detects suspicious human be
 - NumPy, SciPy
 
 ## 🎥 Input Options
-Webcam
-Mobile camera (DroidCam)
-Pre-recorded CCTV video
+- Webcam
+- Mobile camera (DroidCam)
+- Pre-recorded CCTV video
 
 ## 📌 Use Cases
-Smart surveillance systems
-Security monitoring
-Behavior analysis
+- Smart surveillance systems
+- Security monitoring
+- Behavior analysis
 
 ## ▶️ How to Run
 
